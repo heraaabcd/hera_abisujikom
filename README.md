@@ -4,8 +4,8 @@
 
 Laravel 8 pepustakaan dibuat oleh :
 
-- Github : <a href="https://github.com/musyahya"> Musyahya </a>
-- Youtube : <a href="https://www.youtube.com/channel/UC1iCvpMssrHnUsWKEe2cOag"> Musyahya </a>
+- Github : <a href="https://github.com/heraaabcd"> Hera </a>
+- Instagram : <a href=""> Hera </a>
 
 ## Fitur 
 
@@ -43,7 +43,7 @@ Laravel 8 pepustakaan dibuat oleh :
 **Clone Repository**
 
 ```bash
-git clone https://github.com/musyahya/laravel8_perpustakaan.git
+git clone https://github.com/heraaabcd/hera_abisujikom.git
 ```
 
 **Download zip**
@@ -73,14 +73,14 @@ copy .env.example menjadi .env
 ## Buat database di localhost 
 
 ```bash
-nama database : perpustakaan_laravel_8
+nama database : library
 ```
 
 ## Setting database di .env
 
 ```bash
 DB_PORT=3306
-DB_DATABASE=perpustakaan_laravel_8
+DB_DATABASE=library
 DB_USERNAME=root
 DB_PASSWORD=
 ```
